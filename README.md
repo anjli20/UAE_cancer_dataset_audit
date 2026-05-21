@@ -1,4 +1,4 @@
-# Auditing a Healthcare ML Dataset
+# Auditing a UAE Healthcare ML Dataset
 
 A methodology study on the UAE Cancer Patient dataset (10,000 patients, 21 features). An initial model predicting patient 
 outcomes reached 63% accuracy. After auditing the pipeline, three flaws were found — target leakage, a time-dependent label, 
